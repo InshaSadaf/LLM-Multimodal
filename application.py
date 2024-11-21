@@ -20,7 +20,7 @@ load_dotenv()
 
 # Configure Google Gemini API and Hugging Face token
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-hf_token = os.getenv("HUGGINGFACEHUB_API_TOKEN")
+hf_token = os.getenv("HF_API_INTEGRATION_KEY")
 
 st.set_page_config(page_title="VisionaryX", page_icon="🔮", layout="wide")
 st.title("Welcome to **VisionaryX** 🧠")
