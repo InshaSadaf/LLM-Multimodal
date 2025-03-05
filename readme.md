@@ -88,6 +88,9 @@ VisionaryX bridges these gaps by providing a **unified AI platform** that integr
 
 ## 📌 Demo
 ### 🎥 https://multimodalchatbot.streamlit.app/
+###🛠 Login Credentials:
+      Username: admin
+      Password: admin
 
 - **Response Time:** ⚡ 5-30 seconds (depends on query complexity)
 - **Processing Time:** ⚡ 2-120 seconds (based on input type)
